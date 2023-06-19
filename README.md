@@ -20,7 +20,7 @@ So currently I am studying web development, but I am also interested to learn ab
 
 
 ## What I am currently learning
-Currently I am completing [The Odin Project](https://pages.github.com/](https://www.theodinproject.com/)), where I am learning skills on: </br></br>
+Currently I am completing [The Odin Project](https://www.theodinproject.com/), where I am learning skills on: </br></br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
