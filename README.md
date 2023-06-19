@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Welcome to my GitHub Page!
-I am a computer science student, about to graduate in bachelor, starting my master studies soon. </br>
+I am a software development student, about to graduate in bachelor, starting my master studies soon. </br>
 Right now I'm completing web application projects on my GitHub while completing "The Odin Project", an open source foundation's web course, where I refresh my experience from my University studies and also learn something new! </br>
 So currently I am studying web development, but I am also interested to learn about backend, databases and algorithms too, which I am reading literature on every now and then.
 
