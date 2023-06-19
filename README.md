@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Welcome to my GitHub Page!
 I am a computer science student, about to graduate in bachelor, starting my master studies soon. </br>
 Right now I'm completing web application projects on my GitHub while completing "The Odin Project", an open source foundation's web course, where I refresh my experience from my University studies and also learn something new! </br>
+So currently I am studying web development, but I am also interested to learn about backend, databases and algorithms too, which I am reading literature on every now and then.
 
 
 ## What I am currently learning
@@ -41,6 +42,9 @@ Currently I am completing [The Odin Project](https://pages.github.com/](https://
 ### Basics
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 </br>
 </br>
 ### Other technologies I have basics on
