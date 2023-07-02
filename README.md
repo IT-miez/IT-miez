@@ -64,3 +64,10 @@ Currently I am completing [The Odin Project](https://www.theodinproject.com/), w
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </br>
+## Some small projects live versions on GitHub Pages:
+
+Simple website with flexbox: https://it-miez.github.io/Landing-Page-Project-ChessFansite/
+Rock-Paper-Scissors game made with JavaScript: https://it-miez.github.io/Rock-Paper-Scissors-project/
+Simple Calculator that can do simple calculations: https://it-miez.github.io/Simple-Calculator-project/
+Login page mockup utilizing client-side form validations with CSS :valid and :invalid stylings: https://it-miez.github.io/Signup-page-project/
+Weather app page that utilizes a public API: https://it-miez.github.io/Weather-App-Project/
