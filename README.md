@@ -41,16 +41,14 @@ I'm also interested to learn about backend, databases and algorithms, but curren
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 
-## Projects
-✏ Blog-Api currently in development: https://github.com/IT-miez/blog-api-project/</br>
-📜 Adv. Web project: https://github.com/IT-miez/courseproject_advanced_web_applications</br>
-📚 Library application utilizing MongoDB and PUG-template engine: https://github.com/IT-miez/express-local-library-app</br>
-📊 Group Course-project utilizing Postgres, React and Node.js: https://github.com/Lionbull/dataintensiveproject
+## Fullstack Projects
+✏️ Blog-API WIP. React, Node.js/Express & MongoDB ⚙️[REPOSITORY](https://github.com/IT-miez/blog-api-project/)</br>
+📜 Advanced Web project. React, Node.js/Express, MongoDB & Cypress ⚙️[REPOSITORY](https://github.com/IT-miez/courseproject_advanced_web_applications)</br>
+📚 Library application. Pug Template Engine, Node.js/Express & MongoDB ⚙️[REPOSITORY](https://github.com/IT-miez/express-local-library-app)</br>
+📊 Group work project. React, Node.js/Express & Postgress ⚙️[REPOSITORY](https://github.com/Lionbull/dataintensiveproject)
 
-## Some projects on GitHub Pages:
-☀ Weather app page that utilizes a public API: https://it-miez.github.io/Weather-App-Project/</br>
-♟ Chess site utilizing flexbox: https://it-miez.github.io/Landing-Page-Project-ChessFansite/</br>
-✂ Rock-Paper-Scissors game made with JavaScript: https://it-miez.github.io/Rock-Paper-Scissors-project/</br>
-💻 Simple Calculator that can do simple calculations: https://it-miez.github.io/Simple-Calculator-project/</br>
-📋 Login page mockup utilizing client-side form validations with CSS :valid and :invalid stylings: https://it-miez.github.io/Signup-page-project/</br>
-
+## Projects live on GitHub Pages
+☀️ Weather site. JavaScript & Public API 🟢[LIVE](https://it-miez.github.io/Weather-App-Project/) ⚙️[REPOSITORY](https://github.com/IT-miez/Weather-App-Project) </br>
+📈 Statistical site. JavaScript, Leaflet.js & Public API 🟢[LIVE](https://it-miez.github.io/statistics_website_basic/) ⚙️[REPOSITORY](https://github.com/IT-miez/statistics_website_basic) </br>
+♟️ Chess site. JavaScript & CSS Flexbox 🟢[LIVE](https://it-miez.github.io/Landing-Page-Project-ChessFansite/) ⚙️[REPOSITORY](https://github.com/IT-miez/Landing-Page-Project-ChessFansite)</br>
+📋 Login page mockup. Clientside form validation 🟢[LIVE](https://it-miez.github.io/Signup-page-project/) ⚙️[REPOSITORY](https://github.com/IT-miez/Signup-page-project)
