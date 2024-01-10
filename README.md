@@ -19,7 +19,7 @@ Currently I'm completing a fullstack web application project on my GitHub utiliz
 I'm also interested to learn about backend, databases and algorithms, but currently my coding projects are mostly front-end.
 
 
-## Technologies I've used in projects
+## Technologies I've used
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
