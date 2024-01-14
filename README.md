@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 # Welcome to my GitHub Page!
 I am a first year master's student in Software Engineering.</br>
 Currently I'm completing a fullstack web application project on my GitHub utilizing MongoDB, Express and React while completing "The Odin Project", an open source foundation's web course.</br>
-I'm also interested to learn about backend, databases and algorithms, but currently my coding projects are mostly front-end.
+I'm also interested to learn about backend, databases and algorithms, but currently my completed or ongoing coding projects are mostly front-end.</br>
+On Spring 2024 I'm also independently learning the basics of **C#**, aiming to improve my skills on backend development.
 
 
 ## Technologies I've used
