@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Welcome to my GitHub Page!
-I am a first year master's student in Software Engineering.</br>
+I am a second year master's student in Software Engineering at LUT University.</br>
 On my GitHub you can find my fullstack web application project utilizing MongoDB, Express and React which was started while completing "The Odin Project", an open source foundation's web course.</br>
-Currently my completed or ongoing coding projects are mostly front-end, but I'm interested to learn more about backend, databases and algorithms.</br>
-On Spring 2024 I'm also independently learning the basics of **C#** and **C++**, aiming to improve my skills on backend development and other coding languages than just web development.
+Currently my completed or ongoing coding projects are mostly front-end, but I'm interested to learn more about backend, databases, DevOps, Security, infrastructure, cloud and algorithms.</br>
+In 2024 I'm also learning the basics of **C#** and **C++**, aiming to improve my skills on backend development and object-oriented programming while also learning about other topics like DevOps and Security through online courses and practical examples.
 
 
 ## Technologies I've used
