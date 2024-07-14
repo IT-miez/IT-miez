@@ -19,6 +19,8 @@ On my GitHub you can find my fullstack web application project utilizing MongoDB
 Currently my completed or ongoing coding projects are mostly front-end, but I'm interested to learn more about backend, databases, DevOps, Security, infrastructure, cloud and algorithms.</br>
 In 2024 I'm also learning the basics of **C#** and **C++**, aiming to improve my skills on backend development and object-oriented programming while also learning about other topics like DevOps and Security through online courses and practical examples.
 
+## My portfolio page
+My [portfolio website of my projects](https://it-miez.github.io/portfolio-page/), currently under development. </br></br>
 
 ## Technologies I've used
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
