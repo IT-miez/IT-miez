@@ -45,7 +45,7 @@ My [portfolio website of my projects](https://it-miez.github.io/portfolio-page/)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 
 ## Fullstack Projects
-✏️ Blog-API WIP. React, Node.js/Express & MongoDB ⚙️[REPOSITORY](https://github.com/IT-miez/blog-api-project/)</br>
+✏️ Blog-API WIP. React, Node.js/Express & MongoDB 🟢[LIVE](https://blog-api-project-gamma.vercel.app/)⚙️[REPOSITORY](https://github.com/IT-miez/blog-api-project/)</br>
 📜 Advanced Web project. React, Node.js/Express, MongoDB & Cypress ⚙️[REPOSITORY](https://github.com/IT-miez/courseproject_advanced_web_applications)</br>
 📚 Library application. Pug Template Engine, Node.js/Express & MongoDB ⚙️[REPOSITORY](https://github.com/IT-miez/express-local-library-app)</br>
 📊 Group work project. React, Node.js/Express & Postgress ⚙️[REPOSITORY](https://github.com/Lionbull/dataintensiveproject)
