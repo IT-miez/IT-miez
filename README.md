@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am a second year master's student in Software Engineering at LUT University.</br>
 On my GitHub you can find my fullstack web application project utilizing MongoDB, Express and React which was started while completing "The Odin Project", an open source foundation's web course.</br>
 Currently my completed or ongoing coding projects are mostly front-end, but I'm interested to learn more about backend, databases, DevOps, Security, infrastructure, cloud and algorithms.</br>
-In 2024 I'm also learning the basics of **C#** and **C++**, aiming to improve my skills on backend development and object-oriented programming while also learning about other topics like DevOps and Security through online courses and practical examples.
+In 2024 I'm aiming to improve my skills on backend development, topics like DevOps and Security through online courses and practical examples, and also a little bit of object-oriented programming through basics of C++ and C#.
 
 ## My portfolio page
 My [portfolio website of my projects](https://it-miez.github.io/portfolio-page/), currently under development. </br></br>
