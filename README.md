@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 # Welcome to my GitHub Page!
 I am a second year master's student in Software Engineering at LUT University.</br>
-On my GitHub you can find my fullstack web application project utilizing MongoDB, Express and React which was started while completing "The Odin Project", an open source foundation's web course.</br>
-Currently my completed or ongoing coding projects are mostly front-end, but I'm interested to learn more about backend, databases, DevOps, Security, infrastructure, cloud and algorithms.</br>
-In 2024 I'm aiming to improve my skills on backend development, topics like DevOps and Security through online courses and practical examples, and also a little bit of object-oriented programming through basics of C++ and C#.
+On my GitHub you can find my fullstack web application project utilizing MongoDB, Express and React which was started while completing "The Odin Project", an open source foundation's web course. You can also find my other projects where I use for example PostgreSQL and GraphQL.</br>
+Currently my completed or ongoing coding projects are mostly front-end, but I'm learning more about backend, databases, DevOps, Security, infrastructure and cloud platforms, through practical and theoretical courses and materials.</br>
+In 2024 I learned a little bit of C# and C++ and completed an university course about Docker, and online courses on JavaSript, SSL/TLS, and CompTia Security course materials on Udemy.</br>
+In 2025 I'm aiming to improve my skills on backend development, topics like DevOps and Security through online courses and practical examples.
 
 ## My portfolio page
 My [portfolio website of my projects](https://it-miez.github.io/portfolio-page/), currently under development. </br></br>
@@ -32,6 +33,8 @@ My [portfolio website of my projects](https://it-miez.github.io/portfolio-page/)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=%23000000)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B?style=for-the-badge&logo=cplusplus&logoColor=%2300599C&color=white)
+![C#](https://img.shields.io/badge/C%23-C%2B%2B?style=for-the-badge&logo=c&logoColor=%23663399&labelColor=light-gray&color=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -43,11 +46,11 @@ My [portfolio website of my projects](https://it-miez.github.io/portfolio-page/)
 ![GraphQL](https://img.shields.io/badge/GraphQL-grey?style=for-the-badge&logo=graphql&color=%23E10098)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-grey?style=for-the-badge&logo=raspberrypi&color=%23A22846)
 
