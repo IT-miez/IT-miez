@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 # Welcome to my GitHub Page!
 I am a second year master's student in Software Engineering at LUT University.</br>
 On my GitHub you can find my fullstack web application project utilizing MongoDB, Express and React which was started while completing "The Odin Project", an open source foundation's web course. You can also find my other projects where I use for example PostgreSQL and GraphQL.</br>
-Currently my completed or ongoing coding projects are mostly front-end, but I'm learning more about backend, databases, DevOps, Security, infrastructure and cloud platforms, through practical and theoretical courses and materials.</br>
-In 2024 I learned a little bit of C# and C++ and completed an university course about Docker, and online courses on JavaSript, SSL/TLS, and CompTia Security course materials on Udemy.</br>
-In 2025 I'm aiming to improve my skills on backend development, topics like DevOps and Security through online courses and practical examples.
+Currently my completed GitHub projects are mostly front-end. or full-stack.</br>
+Currently I'm learning more about topics like DevOps, Cybersecurity and cloud platforms, through practical and theoretical courses and materials.</br>
+In Spring 2025 I'm completing my master's thesis where I use Rust.
 
 ## My portfolio page
 My [portfolio website of my projects](https://it-miez.github.io/portfolio-page/), currently under development. </br></br>
