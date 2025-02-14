@@ -66,7 +66,3 @@ My [portfolio website of my projects](https://it-miez.github.io/portfolio-page/)
 ## API Sites
 ☀️ Weather site. JavaScript & Public API 🟢[LIVE](https://it-miez.github.io/Weather-App-Project/) ⚙️[REPOSITORY](https://github.com/IT-miez/Weather-App-Project) </br>
 📈 Statistical site. JavaScript, Leaflet.js & Public API 🟢[LIVE](https://it-miez.github.io/statistics_website_basic/) ⚙️[REPOSITORY](https://github.com/IT-miez/statistics_website_basic) </br>
-
-## Simpler sites
-♟️ Chess site. JavaScript & CSS Flexbox 🟢[LIVE](https://it-miez.github.io/Landing-Page-Project-ChessFansite/) ⚙️[REPOSITORY](https://github.com/IT-miez/Landing-Page-Project-ChessFansite)</br>
-📋 Login page mockup. Clientside form validation 🟢[LIVE](https://it-miez.github.io/Signup-page-project/) ⚙️[REPOSITORY](https://github.com/IT-miez/Signup-page-project)
