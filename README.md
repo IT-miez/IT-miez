@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 I am a second year master's student in Software Engineering at LUT University.</br>
 On my GitHub you can find my fullstack web application project utilizing MongoDB, Express and React which was started while completing "The Odin Project", an open source foundation's web course. You can also find my other projects where I use for example PostgreSQL and GraphQL.</br>
 My completed GitHub projects are mostly front-end projects or full-stack.</br>
-Currently I'm learning more about topics like DevOps, Cybersecurity and cloud platforms, through practical and theoretical courses and materials, to get a better understanding of modern software development practices.</br>
+My interests include fullstack development, DevOps and Cybersecurity, which I am studying in my free time through practical and theoretical means to get a better understanding of modern software development practices.</br>
 In Spring 2025 I'm completing my master's thesis where I use Rust.
 
 ## My portfolio page
-My [portfolio website of my projects](https://it-miez.github.io/portfolio-page/), currently under development. </br></br>
+My [portfolio website of my projects](https://it-miez.github.io/portfolio-page/), updated periodically. </br></br>
 
 ## Technologies I've used
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
