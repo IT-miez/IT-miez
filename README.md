@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Welcome to my GitHub Page!
-I am a second year master's student in Software Engineering at LUT University.</br>
+I am a recently graduated Master in Software Engineering at LUT University.</br>
 On my GitHub you can find my fullstack web application project utilizing MongoDB, Express and React which was started while completing "The Odin Project", an open source foundation's web course. You can also find my other projects where I use for example PostgreSQL and GraphQL.</br>
 My completed GitHub projects are mostly front-end projects or full-stack.</br>
 My interests include fullstack development, DevOps and Cybersecurity, which I am studying in my free time through practical and theoretical means to get a better understanding of modern software development practices.</br>
